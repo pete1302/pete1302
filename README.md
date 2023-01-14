@@ -2,10 +2,13 @@
 # Prakhar Raj Pandey
 **`Pre-Final Year || 350+ Leetcode || AI ML + IOT || Web Development`**
 
-Currently learning IoT, ML, and Network concepts using a nRF52840 board and practising DSA on Leetcode.
+I am a Pre-final year Student at Vellore Institute of Technology, specialising in Machine Learning and IoT. 
+
+For the last 3 months I have been learning IoT on an Arduino based Board with Machine Learning processor and Sensor data collection capability.
+
 
 ---
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
