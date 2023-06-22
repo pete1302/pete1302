@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 # Prakhar Raj Pandey
-**`Pre-Final Year || 500+ Leetcode || Data Science || Web Development`**
+**`Pre-Final Year || 550+ Leetcode || Data Science || Web Development`**
 
 I am a Pre-final year Student at Vellore Institute of Technology, specialising in Machine Learning and Web Development.
 
